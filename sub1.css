@@ -3,10 +3,10 @@
 }
 
 body{
-    background-image: url(/images/sub-background5.png);
-    @-webkit-background-image: url(/images/sub-background5.png);
-    @-o-background-image: url(/images/sub-background5.png);
-    @moz-background-image: url(/images/sub-background5.png);
+    background-image: url(images/sub-background5.png);
+    @-webkit-background-image: url(images/sub-background5.png);
+    @-o-background-image: url(images/sub-background5.png);
+   /* @moz-background-image: url(images/sub-background5.png);*/
     background-repeat: no-repeat;
     background-size:cover;
    
