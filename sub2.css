@@ -12,6 +12,7 @@
 
 }
 .grid1{
+    height: 100vh;
     grid-area:grid1;
     background-color: #879d9f;
     padding-left: 20px;
@@ -21,7 +22,7 @@
     color:#9dc9cc;
     background-color: #26242A;
     background-image: url(images/flat-lay-work-space-with-notebook-keyboard.jpg);
-    background-size: 75%;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 /*
