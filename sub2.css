@@ -20,7 +20,7 @@
     grid-area: grid2;
     color:#9dc9cc;
     background-color: black;
-    background-image: url(/images/flat-lay-work-space-with-notebook-keyboard.jpg);
+    background-image: url(images/flat-lay-work-space-with-notebook-keyboard.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -36,7 +36,7 @@ nav >li{
     font-size: 20px;
     margin-bottom: 15px;
     font-weight: bold;
-    list-style-image: url(/images/arrow_13476014.png);
+    list-style-image: url(images/arrow_13476014.png);
     
 }
 nav >li>a{
