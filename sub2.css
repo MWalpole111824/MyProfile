@@ -20,9 +20,9 @@
 .grid2{
     padding-top: 20px;
     grid-area: grid2;
-    color:#9dc9cc;
+    color:#0A364D;
     background-color: #26242A;
-    background-image: url(images/new_bg.jpg)
+    background-image: url(images/new_bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
